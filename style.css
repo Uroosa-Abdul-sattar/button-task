@@ -1,0 +1,41 @@
+button{
+    font-size: 1.1em;
+    font-family: 'Montserrat', sans-serif;
+    margin: 1em;
+}
+#cart-btn{
+    background-color: #c63928;
+    color: white;
+    padding: 1em 3em;
+    border: none;
+}
+#start-btn{
+    background-color: #fdd835;
+    color: #26a1fb;
+    border: 2px solid #26a1fb;
+    padding: 10px 20px ;
+    font-family: 'Gugi', cursive;
+    font-size: 1.2em;
+}
+#login-btn{
+    border-radius: 25px;
+    border: none;
+    background-image: linear-gradient(to right, #59d1de, #a7d384);
+    color: white;
+    padding: 12px 38px;
+}
+#signup-btn{
+    color: #6749ea;
+    background-color: white;
+    border: 3px solid #6749ea;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+#subscribe-btn{
+    background-image: linear-gradient(to top, #f5a332, #fac733);
+    padding: 12px 2em;
+    border: 2px solid #fac733;
+    border-radius: 5px;
+    color: white;
+    text-shadow: 1px 1px 2px grey;
+}
